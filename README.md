@@ -80,15 +80,13 @@ The dashboard is designed to provide a clear, executive-level view of business p
 
 This project uses the **AdventureWorks 2005 sample database** provided by Microsoft.
 
-Dataset:  
-https://learn.microsoft.com/en-us/sql/samples/adventureworks-install-configure?view=sql-server-ver17  
+[Dataset](https://learn.microsoft.com/en-us/sql/samples/adventureworks-install-configure?view=sql-server-ver17)
 
 ---
 
 ## ⭐ Project Overview
 
-👉 Explore the full interactive dashboard here:  
-https://docs.google.com/spreadsheets/d/1mApP8pBNMbM7zQDyxo1rOAOa28LwwZZZBhNEhXW7PyM/edit?gid=141689769#gid=141689769  
+👉 [Explore the full interactive dashboard here](https://docs.google.com/spreadsheets/d/1mApP8pBNMbM7zQDyxo1rOAOa28LwwZZZBhNEhXW7PyM/edit?gid=141689769#gid=141689769)  
 
 ---
 
